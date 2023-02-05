@@ -1,4 +1,4 @@
-# Snarky Guide to Deploying Your Linode Virtual Machine
+# Guide to Deploying Your Linode Virtual Machine
 
 Welcome to the wild world of cloud computing!
 
